@@ -1,1 +1,1 @@
-Write the the instruction of this projetc
+Write the the instruction of this project
